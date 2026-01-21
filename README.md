@@ -215,7 +215,7 @@ Cost = Trade_Value × 0.0010  (10 basis points)
 
 ---
 
-## �📁 Code Structure
+## 📁 Code Structure
 
 - **`main.py`**: Entry point. Orchestrates the entire workflow.
 - **`quant_strategy/`**:
